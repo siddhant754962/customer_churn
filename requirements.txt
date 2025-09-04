@@ -7,3 +7,13 @@ matplotlib
 seaborn
 shap       # optional, for explainability
 reportlab  # optional, for PDF generation
+streamlit
+pandas
+numpy
+joblib
+plotly
+matplotlib
+seaborn
+scikit-learn 1.6.1
+shap       # optional, for explainability
+reportlab  # optional, for PDF generation
