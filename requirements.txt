@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+joblib
+plotly
+matplotlib
+seaborn
+shap       # optional, for explainability
+reportlab  # optional, for PDF generation
